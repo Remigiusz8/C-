@@ -1,0 +1,15 @@
+C:\Users\Remek\source\repos\Zadanie9\bin\Debug\net6.0\Zadanie9.exe
+C:\Users\Remek\source\repos\Zadanie9\bin\Debug\net6.0\Zadanie9.deps.json
+C:\Users\Remek\source\repos\Zadanie9\bin\Debug\net6.0\Zadanie9.runtimeconfig.json
+C:\Users\Remek\source\repos\Zadanie9\bin\Debug\net6.0\Zadanie9.dll
+C:\Users\Remek\source\repos\Zadanie9\bin\Debug\net6.0\Zadanie9.pdb
+C:\Users\Remek\source\repos\Zadanie9\obj\Debug\net6.0\Zadanie9.csproj.AssemblyReference.cache
+C:\Users\Remek\source\repos\Zadanie9\obj\Debug\net6.0\Zadanie9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Remek\source\repos\Zadanie9\obj\Debug\net6.0\Zadanie9.AssemblyInfoInputs.cache
+C:\Users\Remek\source\repos\Zadanie9\obj\Debug\net6.0\Zadanie9.AssemblyInfo.cs
+C:\Users\Remek\source\repos\Zadanie9\obj\Debug\net6.0\Zadanie9.csproj.CoreCompileInputs.cache
+C:\Users\Remek\source\repos\Zadanie9\obj\Debug\net6.0\Zadanie9.dll
+C:\Users\Remek\source\repos\Zadanie9\obj\Debug\net6.0\refint\Zadanie9.dll
+C:\Users\Remek\source\repos\Zadanie9\obj\Debug\net6.0\Zadanie9.pdb
+C:\Users\Remek\source\repos\Zadanie9\obj\Debug\net6.0\Zadanie9.genruntimeconfig.cache
+C:\Users\Remek\source\repos\Zadanie9\obj\Debug\net6.0\ref\Zadanie9.dll

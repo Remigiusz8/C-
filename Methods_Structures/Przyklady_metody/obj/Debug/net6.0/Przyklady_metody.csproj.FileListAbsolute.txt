@@ -1,0 +1,15 @@
+C:\Users\Remek\source\repos\Przyklady_metody\bin\Debug\net6.0\Przyklady_metody.exe
+C:\Users\Remek\source\repos\Przyklady_metody\bin\Debug\net6.0\Przyklady_metody.deps.json
+C:\Users\Remek\source\repos\Przyklady_metody\bin\Debug\net6.0\Przyklady_metody.runtimeconfig.json
+C:\Users\Remek\source\repos\Przyklady_metody\bin\Debug\net6.0\Przyklady_metody.dll
+C:\Users\Remek\source\repos\Przyklady_metody\bin\Debug\net6.0\Przyklady_metody.pdb
+C:\Users\Remek\source\repos\Przyklady_metody\obj\Debug\net6.0\Przyklady_metody.csproj.AssemblyReference.cache
+C:\Users\Remek\source\repos\Przyklady_metody\obj\Debug\net6.0\Przyklady_metody.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Remek\source\repos\Przyklady_metody\obj\Debug\net6.0\Przyklady_metody.AssemblyInfoInputs.cache
+C:\Users\Remek\source\repos\Przyklady_metody\obj\Debug\net6.0\Przyklady_metody.AssemblyInfo.cs
+C:\Users\Remek\source\repos\Przyklady_metody\obj\Debug\net6.0\Przyklady_metody.csproj.CoreCompileInputs.cache
+C:\Users\Remek\source\repos\Przyklady_metody\obj\Debug\net6.0\Przyklady_metody.dll
+C:\Users\Remek\source\repos\Przyklady_metody\obj\Debug\net6.0\refint\Przyklady_metody.dll
+C:\Users\Remek\source\repos\Przyklady_metody\obj\Debug\net6.0\Przyklady_metody.pdb
+C:\Users\Remek\source\repos\Przyklady_metody\obj\Debug\net6.0\Przyklady_metody.genruntimeconfig.cache
+C:\Users\Remek\source\repos\Przyklady_metody\obj\Debug\net6.0\ref\Przyklady_metody.dll

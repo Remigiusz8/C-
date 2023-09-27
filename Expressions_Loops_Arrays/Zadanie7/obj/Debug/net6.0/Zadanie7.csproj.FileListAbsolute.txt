@@ -1,0 +1,15 @@
+C:\Users\Remek\source\repos\Zadanie7\bin\Debug\net6.0\Zadanie7.exe
+C:\Users\Remek\source\repos\Zadanie7\bin\Debug\net6.0\Zadanie7.deps.json
+C:\Users\Remek\source\repos\Zadanie7\bin\Debug\net6.0\Zadanie7.runtimeconfig.json
+C:\Users\Remek\source\repos\Zadanie7\bin\Debug\net6.0\Zadanie7.dll
+C:\Users\Remek\source\repos\Zadanie7\bin\Debug\net6.0\Zadanie7.pdb
+C:\Users\Remek\source\repos\Zadanie7\obj\Debug\net6.0\Zadanie7.csproj.AssemblyReference.cache
+C:\Users\Remek\source\repos\Zadanie7\obj\Debug\net6.0\Zadanie7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Remek\source\repos\Zadanie7\obj\Debug\net6.0\Zadanie7.AssemblyInfoInputs.cache
+C:\Users\Remek\source\repos\Zadanie7\obj\Debug\net6.0\Zadanie7.AssemblyInfo.cs
+C:\Users\Remek\source\repos\Zadanie7\obj\Debug\net6.0\Zadanie7.csproj.CoreCompileInputs.cache
+C:\Users\Remek\source\repos\Zadanie7\obj\Debug\net6.0\Zadanie7.dll
+C:\Users\Remek\source\repos\Zadanie7\obj\Debug\net6.0\refint\Zadanie7.dll
+C:\Users\Remek\source\repos\Zadanie7\obj\Debug\net6.0\Zadanie7.pdb
+C:\Users\Remek\source\repos\Zadanie7\obj\Debug\net6.0\Zadanie7.genruntimeconfig.cache
+C:\Users\Remek\source\repos\Zadanie7\obj\Debug\net6.0\ref\Zadanie7.dll

@@ -1,0 +1,30 @@
+C:\Users\Remek\source\repos\Zadanie3\bin\Debug\net6.0\Zadanie3.exe
+C:\Users\Remek\source\repos\Zadanie3\bin\Debug\net6.0\Zadanie3.deps.json
+C:\Users\Remek\source\repos\Zadanie3\bin\Debug\net6.0\Zadanie3.runtimeconfig.json
+C:\Users\Remek\source\repos\Zadanie3\bin\Debug\net6.0\Zadanie3.dll
+C:\Users\Remek\source\repos\Zadanie3\bin\Debug\net6.0\Zadanie3.pdb
+C:\Users\Remek\source\repos\Zadanie3\obj\Debug\net6.0\Zadanie3.csproj.AssemblyReference.cache
+C:\Users\Remek\source\repos\Zadanie3\obj\Debug\net6.0\Zadanie3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Remek\source\repos\Zadanie3\obj\Debug\net6.0\Zadanie3.AssemblyInfoInputs.cache
+C:\Users\Remek\source\repos\Zadanie3\obj\Debug\net6.0\Zadanie3.AssemblyInfo.cs
+C:\Users\Remek\source\repos\Zadanie3\obj\Debug\net6.0\Zadanie3.csproj.CoreCompileInputs.cache
+C:\Users\Remek\source\repos\Zadanie3\obj\Debug\net6.0\Zadanie3.dll
+C:\Users\Remek\source\repos\Zadanie3\obj\Debug\net6.0\refint\Zadanie3.dll
+C:\Users\Remek\source\repos\Zadanie3\obj\Debug\net6.0\Zadanie3.pdb
+C:\Users\Remek\source\repos\Zadanie3\obj\Debug\net6.0\Zadanie3.genruntimeconfig.cache
+C:\Users\Remek\source\repos\Zadanie3\obj\Debug\net6.0\ref\Zadanie3.dll
+C:\Users\Remek\Desktop\Podstawy Programowania\Cwiczenia4\Zadanie3\bin\Debug\net6.0\Zadanie3.exe
+C:\Users\Remek\Desktop\Podstawy Programowania\Cwiczenia4\Zadanie3\bin\Debug\net6.0\Zadanie3.deps.json
+C:\Users\Remek\Desktop\Podstawy Programowania\Cwiczenia4\Zadanie3\bin\Debug\net6.0\Zadanie3.runtimeconfig.json
+C:\Users\Remek\Desktop\Podstawy Programowania\Cwiczenia4\Zadanie3\bin\Debug\net6.0\Zadanie3.dll
+C:\Users\Remek\Desktop\Podstawy Programowania\Cwiczenia4\Zadanie3\bin\Debug\net6.0\Zadanie3.pdb
+C:\Users\Remek\Desktop\Podstawy Programowania\Cwiczenia4\Zadanie3\obj\Debug\net6.0\Zadanie3.csproj.AssemblyReference.cache
+C:\Users\Remek\Desktop\Podstawy Programowania\Cwiczenia4\Zadanie3\obj\Debug\net6.0\Zadanie3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Remek\Desktop\Podstawy Programowania\Cwiczenia4\Zadanie3\obj\Debug\net6.0\Zadanie3.AssemblyInfoInputs.cache
+C:\Users\Remek\Desktop\Podstawy Programowania\Cwiczenia4\Zadanie3\obj\Debug\net6.0\Zadanie3.AssemblyInfo.cs
+C:\Users\Remek\Desktop\Podstawy Programowania\Cwiczenia4\Zadanie3\obj\Debug\net6.0\Zadanie3.csproj.CoreCompileInputs.cache
+C:\Users\Remek\Desktop\Podstawy Programowania\Cwiczenia4\Zadanie3\obj\Debug\net6.0\Zadanie3.dll
+C:\Users\Remek\Desktop\Podstawy Programowania\Cwiczenia4\Zadanie3\obj\Debug\net6.0\refint\Zadanie3.dll
+C:\Users\Remek\Desktop\Podstawy Programowania\Cwiczenia4\Zadanie3\obj\Debug\net6.0\Zadanie3.pdb
+C:\Users\Remek\Desktop\Podstawy Programowania\Cwiczenia4\Zadanie3\obj\Debug\net6.0\Zadanie3.genruntimeconfig.cache
+C:\Users\Remek\Desktop\Podstawy Programowania\Cwiczenia4\Zadanie3\obj\Debug\net6.0\ref\Zadanie3.dll

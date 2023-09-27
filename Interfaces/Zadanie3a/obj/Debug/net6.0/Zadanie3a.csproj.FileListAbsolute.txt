@@ -1,0 +1,15 @@
+C:\Users\Remek\source\repos\Zadanie3a\bin\Debug\net6.0\Zadanie3a.exe
+C:\Users\Remek\source\repos\Zadanie3a\bin\Debug\net6.0\Zadanie3a.deps.json
+C:\Users\Remek\source\repos\Zadanie3a\bin\Debug\net6.0\Zadanie3a.runtimeconfig.json
+C:\Users\Remek\source\repos\Zadanie3a\bin\Debug\net6.0\Zadanie3a.dll
+C:\Users\Remek\source\repos\Zadanie3a\bin\Debug\net6.0\Zadanie3a.pdb
+C:\Users\Remek\source\repos\Zadanie3a\obj\Debug\net6.0\Zadanie3a.csproj.AssemblyReference.cache
+C:\Users\Remek\source\repos\Zadanie3a\obj\Debug\net6.0\Zadanie3a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Remek\source\repos\Zadanie3a\obj\Debug\net6.0\Zadanie3a.AssemblyInfoInputs.cache
+C:\Users\Remek\source\repos\Zadanie3a\obj\Debug\net6.0\Zadanie3a.AssemblyInfo.cs
+C:\Users\Remek\source\repos\Zadanie3a\obj\Debug\net6.0\Zadanie3a.csproj.CoreCompileInputs.cache
+C:\Users\Remek\source\repos\Zadanie3a\obj\Debug\net6.0\Zadanie3a.dll
+C:\Users\Remek\source\repos\Zadanie3a\obj\Debug\net6.0\refint\Zadanie3a.dll
+C:\Users\Remek\source\repos\Zadanie3a\obj\Debug\net6.0\Zadanie3a.pdb
+C:\Users\Remek\source\repos\Zadanie3a\obj\Debug\net6.0\Zadanie3a.genruntimeconfig.cache
+C:\Users\Remek\source\repos\Zadanie3a\obj\Debug\net6.0\ref\Zadanie3a.dll

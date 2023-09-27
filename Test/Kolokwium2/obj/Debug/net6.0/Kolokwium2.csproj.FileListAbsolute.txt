@@ -1,0 +1,15 @@
+C:\Users\Remek\source\repos\Kolokwium2\bin\Debug\net6.0\Kolokwium2.exe
+C:\Users\Remek\source\repos\Kolokwium2\bin\Debug\net6.0\Kolokwium2.deps.json
+C:\Users\Remek\source\repos\Kolokwium2\bin\Debug\net6.0\Kolokwium2.runtimeconfig.json
+C:\Users\Remek\source\repos\Kolokwium2\bin\Debug\net6.0\Kolokwium2.dll
+C:\Users\Remek\source\repos\Kolokwium2\bin\Debug\net6.0\Kolokwium2.pdb
+C:\Users\Remek\source\repos\Kolokwium2\obj\Debug\net6.0\Kolokwium2.csproj.AssemblyReference.cache
+C:\Users\Remek\source\repos\Kolokwium2\obj\Debug\net6.0\Kolokwium2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Remek\source\repos\Kolokwium2\obj\Debug\net6.0\Kolokwium2.AssemblyInfoInputs.cache
+C:\Users\Remek\source\repos\Kolokwium2\obj\Debug\net6.0\Kolokwium2.AssemblyInfo.cs
+C:\Users\Remek\source\repos\Kolokwium2\obj\Debug\net6.0\Kolokwium2.csproj.CoreCompileInputs.cache
+C:\Users\Remek\source\repos\Kolokwium2\obj\Debug\net6.0\Kolokwium2.dll
+C:\Users\Remek\source\repos\Kolokwium2\obj\Debug\net6.0\refint\Kolokwium2.dll
+C:\Users\Remek\source\repos\Kolokwium2\obj\Debug\net6.0\Kolokwium2.pdb
+C:\Users\Remek\source\repos\Kolokwium2\obj\Debug\net6.0\Kolokwium2.genruntimeconfig.cache
+C:\Users\Remek\source\repos\Kolokwium2\obj\Debug\net6.0\ref\Kolokwium2.dll
